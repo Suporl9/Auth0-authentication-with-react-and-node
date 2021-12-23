@@ -6,8 +6,9 @@
 
 ## Back end
 
--npm i 
--npm run server
+- npm i 
+
+- npm run server 
 
 ## Dependencies
 
